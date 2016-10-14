@@ -1,0 +1,8 @@
+[jeremy]
+ [2016-02-22 20:53:56]
+ - sending incremental file list ./ scriptsync_vps.sh  642 100% 0.00kB/s 0:00:00  642 100% 0.00kB/s 0:00:00 (xfr#1, to-chk=5/11) scriptsync_vps/ sent 1.04K bytes received 53 bytes 728.00 bytes/sec total size is 17.89K speedup is 16.39
+
+[jeremy]
+ [2016-02-23 23:18:46]
+ - sending incremental file list ./ .backup_gzip.sh.swp  1.02K 100% 0.00kB/s 0:00:00  1.02K 100% 0.00kB/s 0:00:00 (xfr#1, to-chk=17/19) .filesync.sh.swp  1.02K 100% 1000.00kB/s 0:00:00  1.02K 100% 1000.00kB/s 0:00:00 (xfr#2, to-chk=16/19) .test_loop.sh.swp  1.02K 100% 28.57kB/s 0:00:00  1.02K 100% 28.57kB/s 0:00:00 (xfr#3, to-chk=15/19) backup_gzip.sh  538 100% 15.01kB/s 0:00:00  538 100% 15.01kB/s 0:00:00 (xfr#4, to-chk=14/19) filesync.sh.2  700 13% 18.99kB/s 0:00:00  5.02K 100% 136.28kB/s 0:00:00 (xfr#5, to-chk=10/19) {2016-02-23  135 100% 3.66kB/s 0:00:00  135 100% 3.66kB/s 0:00:00 (xfr#6, to-chk=5/19) filesync/filesync.log  700 17% 18.99kB/s 0:00:00  4.03K 100% 109.40kB/s 0:00:00 (xfr#7, to-chk=1/19) scriptsync_vps/ scriptsync_vps/scriptsync_vps.log  270 100% 7.32kB/s 0:00:00  270 100% 7.32kB/s 0:00:00 (xfr#8, to-chk=0/19) sent 9.20K bytes received 283 bytes 6.32K bytes/sec total size is 28.10K speedup is 2.96
+
