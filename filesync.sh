@@ -16,7 +16,7 @@ datelog=$( date +'%F %T')
 ##### Function which writes to log file the user, time and actions of the script.
 
 log_it () {
-    echo -e "[${USER}]\n [${datelog}]\n [${*}]\n\n" | grep -v "sending incremental file list" >> ${logfile}
+    echo -e "[${USER}] :: [${datelog}] :: [${*}]\n\n" | grep -v "sending incremental file list" >> ${logfile}
 }
 
 ##### Function to perform the dry run (to determine if there are files in need of transfer).
